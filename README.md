@@ -1,2 +1,4 @@
-# Raspberry Suites
-Hotel Network Mockup Project 
+# Raspberry Suites - Hotel Network Project 
+Raspberry Suites Project Brief  
+
+Zero Fault Technologies has been contracted to design a network for a new hotel development. Raspberry Suites will be using this hotel to test the business model in the area. If all goes well, they plan on be expanding to up to 10 hotels in the next 5 years. You have been tasked to design the initial network mockup for the first hostel. Raspberry Suites 1 will have 50 guest rooms, a staff area, indoor pool, conference/dining hall, and a kitchen. There must be internet access through-out the entire building and their parking lot. They will have a fiber optic and copper main/service line into the networking room. You have been tasked to create provide the initial network plans, estimates, and service level agreement. In three weeks, leadership and the sales teams will be meeting with the hotel reps. 
