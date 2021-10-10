@@ -6,3 +6,5 @@ Zero Fault Technologies has been contracted to design a network for a new hotel 
 # Raspberry Suites #1 Network Topology Mockup 
 ![RS1 Network Toplogy Mockup](https://user-images.githubusercontent.com/10291698/135739105-d2edd420-6f4b-4a5e-be40-de2e6feee973.png)
 
+# Raspberry Suites Expaneded Network Topology Mockup 
+![Rasberry Suites Network Expanded Topology](https://user-images.githubusercontent.com/10291698/136711261-ad488795-42ff-4c08-a487-f43c1d39b41f.jpg)
