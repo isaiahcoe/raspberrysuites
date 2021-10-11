@@ -1,3 +1,5 @@
+This project was created to showcase my skills at configuring Cisco network devices. 
+
 # Raspberry Suites - Hotel Network Project Brief 
   
 
