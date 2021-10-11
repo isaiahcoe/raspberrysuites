@@ -15,8 +15,8 @@ The following have been configured:
 - DNS Server 
 - Router On A Stick 
 - L3 Switch Routing
-- Etherchannel 
-- Limmited ACL Config
+- EtherChannel 
+- Limited ACL Config
 
 The following have not been configured due to time constraints: 
 - Usernames/Passwords
