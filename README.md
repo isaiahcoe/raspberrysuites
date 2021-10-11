@@ -1,9 +1,7 @@
 ![Rasberry Suites](https://user-images.githubusercontent.com/10291698/136734171-06b4057a-ea8a-499f-b3b8-151785e92a39.png)
 
 # Project Summary 
-This project was created to showcase my currnet skills at configuring Cisco network devices (CCNA Level). The Packet Tracer file for the Raspberry Suites Expanded Network Topology is available for review, please read notes before reviewing the file. If the toplogy mockup images are blurry below, please view attached pdf versions. 
-
-This project is a work in progress.
+This project was created to showcase my currnet skills at configuring Cisco network devices (CCNA Level). The Packet Tracer file for the Raspberry Suites Expanded Network Topology is available for review, please read notes before reviewing the file. If the toplogy mockup images are blurry below, please view attached pdf versions. This project is a work in progress.
 
 # Raspberry Suites - Hotel Network Project Brief 
 
