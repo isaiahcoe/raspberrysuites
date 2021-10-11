@@ -1,4 +1,4 @@
-#Project Summary 
+# Project Summary 
 This project was created to showcase my skills at configuring Cisco network devices. The public Packet Tracer file for the Expanded Network is available for review, please read notes before reviewing file.
 
 # Raspberry Suites - Hotel Network Project Brief 
