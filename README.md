@@ -1,5 +1,5 @@
 # Project Summary 
-This project was created to showcase my currnet skills at configuring Cisco network devices. The Packet Tracer file for the Expanded Network is available for review, please read notes before reviewing file. This project is still a work in progress. 
+This project was created to showcase my currnet skills at configuring Cisco network devices. The Packet Tracer file for the Raspberry Suites Expanded Network Topology is available for review, please read notes before reviewing file. This project is still a work in progress. 
 
 # Raspberry Suites - Hotel Network Project Brief 
 
