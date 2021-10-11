@@ -3,11 +3,12 @@
 This project was created to show case my skills at configuring Cisco network devices. 
 
 I have removed all my notes from the public verison of packet tracer file. Potential employers
-may request source file for review. 
+may request for the source file for review. 
 
 The following have been configured: 
-- IPv4 Addressing
+- Public & Private IPv4 Addressing
 - OSPF
+- NAT 
 - Vlans 
 - VTP 
 - Spanning-Tree 
@@ -30,6 +31,7 @@ The following will be configured in the future:
 - IPv6 Addressing
 - Voice Vlan for IP phones 
 - Physical Firewalls
+- SYS Log Server 
 - Port Security 
 - Network Controller 
 - BGP on ISP Router 
