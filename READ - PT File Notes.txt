@@ -19,7 +19,6 @@ The following have been configured:
 - Limmited ACL Config
 
 The following have not been configured due to time constraints: 
-
 - Usernames/Passwords
 - Telnet/SSH
 - SNMP 
