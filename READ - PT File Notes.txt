@@ -1,0 +1,39 @@
+(Last edited on 10/10/2021) 
+
+This project was created to show case my skills at configuring Cisco network devices. 
+
+I have removed all my notes from the public verison of packet tracer file. Potential employers
+may request source file for review. 
+
+The following have been configured: 
+- IPv4 Addressing
+- OSPF
+- Vlans 
+- VTP 
+- Spanning-Tree 
+- DHCP Server 
+- DNS Server 
+- Router On A Stick 
+- L3 Switch Routing
+- Etherchannel 
+- Limmited ACL Config
+
+The following have not been configured due to time constraints: 
+
+- Usernames/Passwords
+- Telnet/SSH
+- SNMP 
+- Serial Cables 
+- WLC (Buggy in Packet Tracer) 
+
+The following will be configured in the future: 
+- Secure ACL config 
+- IPv6 Addressing
+- Voice Vlan for IP phones 
+- Physical Firewalls
+- Port Security 
+- Network Controller 
+- BGP on ISP Router 
+
+Thanks for reading,
+Isaiah Coe 
