@@ -4,8 +4,8 @@
 This project was created to showcase my currnet skills at configuring Cisco network devices (CCNA Level). The Packet Tracer file for the Raspberry Suites Expanded Network Topology is available for review, please read notes before reviewing the file. If the toplogy mockup images are blurry below, please view attached pdf versions. This project is a work in progress.
 
 # Pending Respository Updates 
-- Ipv4 Address MasterList 
-- Network Device MasterList 
+- Ipv4 Address Master List 
+- Network Device Master List 
 
 
 # Raspberry Suites - Hotel Network Project Brief 
