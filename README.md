@@ -7,6 +7,8 @@ This project was created to showcase my currnet skills at configuring Cisco netw
 - Ipv4 Address Master List 
 - Network Device Master List 
 
+# Weekly Updates 
+Coming Soon...
 
 # Raspberry Suites - Hotel Network Project Brief 
 
