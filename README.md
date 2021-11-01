@@ -4,8 +4,8 @@
 This project was created to showcase my currnet skills at configuring Cisco network devices (CCNA Level). The Packet Tracer file for the Raspberry Suites Expanded Network Topology is available for review, please read notes before reviewing the file. If the toplogy mockup images are blurry below, please view attached pdf versions. This project is a work in progress.
 
 # Pending Respository Updates 
-- Ipv4 Address Master List (Done 10/31/2021, Needs to be uploaded)
-- Network Device Master List (Done 10/31/2021, Needs to be uploaded)
+- Ipv4 Address Master List : View Technical Master List excel file (Uploaded on 10/31/2021)
+- Network Device Master List : View Technical Master List excel file (Uploaded on 10/31/2021)
 - Secure ACL Config
 - Voice Vlan for IP Phones 
 
